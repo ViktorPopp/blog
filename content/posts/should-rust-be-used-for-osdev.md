@@ -6,7 +6,6 @@ author: "Viktor Popp"
 draft: false 
 description: "An honest look at the harsh realities Rust of OS development."
 url: "/posts/should-rust-be-used-for-osdev/"
-series: ["Rust OS Development Journey"]
 categories: ["Development", "OS Development"]
 ---
 
