@@ -54,7 +54,7 @@ params:
       url: "https://discord.com/users/1236265571591520271"
 
   editPost:
-    URL: "https://github.com/ViktorPopp/blog/content"
+    URL: "https://github.com/ViktorPopp/blog/blob/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
