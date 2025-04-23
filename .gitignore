@@ -21,3 +21,6 @@ yarn-error.log*
 node_modules/
 
 .hugo_build.lock
+
+# Hugo binary
+hugo.exe
